@@ -1,8 +1,7 @@
 
 pipeline {
     agent any
-
-
+//hello
     stages {
 
         stage('Git') {
